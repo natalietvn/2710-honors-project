@@ -1,7 +1,7 @@
 // Main.cpp
 // Honors Project - COMP 2710
 //
-// Carter Johnson
+// Carter Johnson, Natalie Nguyen
 //  
 // To compile (from ~/honors_project/): g++ src/Main.cpp
 // To run: ./a.out
